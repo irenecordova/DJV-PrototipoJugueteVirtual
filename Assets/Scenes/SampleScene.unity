@@ -708,7 +708,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   body: {fileID: 2005565764}
-  Vel: 5
+  Vel: 8
   floor: {fileID: 1254160712}
   gameover: {fileID: 1478485023}
 --- !u!58 &2005565761
@@ -952,7 +952,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   body: {fileID: 2013152237}
-  walkingSpeed: 3
+  walkingSpeed: 5
 --- !u!1 &2066614799
 GameObject:
   m_ObjectHideFlags: 0
